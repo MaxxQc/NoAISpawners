@@ -1,0 +1,6 @@
+name: NoAISpawners
+version: 1.0
+main: qc.maxx.noaispawners.noaispawners.NoAISpawners
+api-version: 1.16
+authors: [ Maxx_Qc ]
+description: Disable AI for mobs from Spawners
